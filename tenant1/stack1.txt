@@ -6,3 +6,6 @@ condition: nonprod only
 
 resource3
 condition: prod only
+
+resource4
+condition: nonprod only
