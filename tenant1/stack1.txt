@@ -1,0 +1,8 @@
+resource1
+condition: nonprod only
+
+resource2
+condition: nonprod only
+
+resource3
+condition: prod only
