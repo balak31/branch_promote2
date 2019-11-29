@@ -1,8 +1,9 @@
 resource1
 condition: nonprod only
 
+# JIRA - 4
 resource2
-condition: nonprod only
+condition: prod only
 
 resource3
 condition: prod only
